@@ -1,6 +1,6 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World! I'm FAIZAN 👋🏼 — Web Developer & Tech Explorer
+
+# Hello World! I'm FAIZAN 👋🏼 — Web Developer & Data Engineer Machine Learner
 
 🛜 Currently building personal and freelance projects <br>  
 👨🏼‍🎓 Studying *Media-based Computer Science* at **Berliner Hochschule für Technik** <br>  
