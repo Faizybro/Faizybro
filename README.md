@@ -7,18 +7,22 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Faizybro&theme=gruvbox&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Faizybro&theme=algolia&no-frame=true&margin-w=10&column=6&title=Stars,Followers,Commits,Issues,PullRequest,Repositories" />
+  </a>
+</p>
+
   </a>
 </p>
 
 ---
 
-### 🔥 About Me
-- 🔭 Currently working on: **AI-Based Automated Platform for Pets Breed Recognition and E-Service Hub**
-- 🌱 Learning: **Machine Learning, Deep Learning, and AI Integration**
-- 🤝 Looking for help with: **Model Training & Optimization**
-- 💬 Ask me about: **Python, AI/ML, or Web Development**
-- 📫 Reach me at: **faizanmajeed3392@gmail.com**
+| 💡 Field                                                                                                                | 💬 Description                                                               |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ![Work](https://img.shields.io/badge/-Currently_Working_On-00bcd4?style=for-the-badge\&logo=github)                     | **AI-Based Automated Platform for Pets Breed Recognition and E-Service Hub** |
+| ![Learning](https://img.shields.io/badge/-Currently_Learning-673ab7?style=for-the-badge\&logo=python\&logoColor=white)  | **Machine Learning, Deep Learning, and AI Integration**                      |
+| ![Help](https://img.shields.io/badge/-Looking_For_Help_With-f44336?style=for-the-badge\&logo=opsgenie\&logoColor=white) | **Model Training & Optimization**                                            |
+| ![Ask](https://img.shields.io/badge/-Ask_Me_About-4caf50?style=for-the-badge\&logo=stackoverflow\&logoColor=white)      | **Python, AI/ML, or Web Development**                                        |
+| ![Email](https://img.shields.io/badge/-Reach_Me_At-607d8b?style=for-the-badge\&logo=gmail\&logoColor=white)             | **[faizanmajeed3392@gmail.com](mailto:faizanmajeed3392@gmail.com)**          |
 
 ---
 
@@ -81,6 +85,8 @@
 ---
 
 ### 💡 Quote
-> *“Success is not final, failure is not fatal: It is the courage to continue that counts.”* – Winston S. Churchill
+> “The future belongs to those who believe in the beauty of their dreams.” – Eleanor Roosevelt
+
+
 
 ---
