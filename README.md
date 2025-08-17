@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faizan Majeed</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=32&duration=3000&pause=500&color=0000FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I%27m+Faizan+Majeed" alt="Typing SVG" />
+  <img src="./banner.svg" alt="Hi 👋, I'm Faizan Majeed" />
 </p>
+
 
 
 <h3 align="center">🚀 AI Developer | 🧠 Machine Learning Enthusiast | 🇵🇰 From Pakistan</h3>
