@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <style>
+    text { font: 700 36px 'Arial', sans-serif; fill: #0000FF; }
+  </style>
+  <defs>
+    <mask id="m">
+      <rect x="0" y="0" width="0" height="120" fill="#fff">
+        <animate attributeName="width" from="0" to="900" dur="3s" fill="freeze" />
+      </rect>
+    </mask>
+  </defs>
+  <text x="30" y="76" mask="url(#m)">Hi 👋, I'm Faizan Majeed</text>
+</svg>
