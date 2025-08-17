@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizan Majeed</h1>
+
+
 <h3 align="center">🚀 AI Developer | 🧠 Machine Learning Enthusiast | 🇵🇰 From Pakistan</h3>
 
 <p align="center">
