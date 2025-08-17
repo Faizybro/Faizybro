@@ -12,6 +12,6 @@
   
   <!-- Centered text -->
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" mask="url(#m)">
-    Hi 👋, I'm Faizan Majeed
+    Hi, I'm Faizan Majeed
   </text>
 </svg>
