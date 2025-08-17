@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Faizan Majeed</h1>
-<p align="center">
+<h1 align="center">
   <img src="./banner.svg" alt="Hi 👋, I'm Faizan Majeed" />
-</p>
+</h1>
 
 
 
