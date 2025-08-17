@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="./banner.svg" alt="Hi 👋, I'm Faizan Majeed" />
-</h1>
+<h1 align="center"><img src="./banner.svg" alt="Hi , I'm Faizan Majeed" /></h1>
 
 
 
